@@ -1,2 +1,2 @@
-Set-AWSCredential -AccessKey "AKIA56BAGDIHVEJI4SVB" -SecretKey "ogfsdfsdfsdfsd" -StoreAs test
+Set-AWSCredential -AccessKey "AKIAIOSFODNN7EXAMPLE" -SecretKey "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY" -StoreAs test
 Password = "AP4ssw0rd"
